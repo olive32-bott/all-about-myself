@@ -1,0 +1,8 @@
+## About myself
+
+My name is Olivia Koranteng.
+I am currently a backend developer intern at Opdark Digital.
+I'm excited the learn more about backend development and focus on mastering it to the best of my ability.
+I started to learn how to code out of boredom along the line had fun studying it so i decided to learn more about the backend side of development because i want to know what is going on underneath and solve problems generally.
+When i'm not coding you will probably find me reading books or watching Youtube videos.
+I aim to build really cool projects either big or small along the line to better myself at this skill even more.
